@@ -1,0 +1,51 @@
+Árvore AVL
+
+. O tempo de operações é proporcional aos níveis dela
+
+. É importante mante a árvore com a MENOR quantidade de níveis possíveis , dessa forma otimizando as operações
+
+. O ideal é manter a árvore balanceada
+
+Rotações e Fator de Balanceamento:
+
+. O Fator de Balanceamento de uma árvore binaria de busca é medido pela subtração dos números de niveis sub-árvore a direita com os da esquerda (FB = R-L)
+
+. O fator de balanceamento deve estar entre -1 <= FB <= 1
+
+. Existem 4 tipos básicos de rotações:
+    
+    1) Rotação à esquerda (primitivo)
+    2) Rotação à direita (primitivo)
+    3) Rotação dupla à esquerda (composto)
+    4) Rotação dupla à direita (composto)
+
+
+1) Rotação à esquerda (primitivo):
+
+- O filho da direita se torna a nova raiz
+- Raiz original vira o filho da esquerda da nova raiz
+
+* Caso o filho da direita já tenho um filho a esquerda, ele se tornára filho a direita da Raiz Original
+
+- Vai ser usado quando FB > 1 e sub-árvore a direita tem Q>=0
+
+2) Rotação à direita (primitivo):
+
+- O filho da esquerda se torna nova raiz
+- Raiz original vira filho da direita da nova raiz
+
+* Caso o filho da esquerda já tenho um filho a direita, ele se tornára filho a esquerda da Raiz Original
+
+- Vai ser usado quando FB < 1 e sub-árvore a direita tem Q<=0
+
+3) Rotação dupla à esquerda (composto):
+
+- Vai ser usado quando: FB Desequilibrado Positivo (FB > 1) na Raiz Original e sub-árvore à direita com FB Desequilibrado Negativo (FB < 0)
+
+4) Rotação dupla à direita (composto):
+
+- Vai ser usado quando: FB Desequilibrado Negativo (FB < -1) na Raiz Original e sub-árvore à esquerda com FB Desequilibrado Positivo (FB > 0)
+
+
+
+

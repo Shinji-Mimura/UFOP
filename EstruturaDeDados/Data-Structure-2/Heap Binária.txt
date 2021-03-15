@@ -1,0 +1,31 @@
+* Implementações no Heap_Binaria.c
+
+FP usando uma Heap Binária
+
+. Definição :
+
+- Uma Heap permite simular uma árvore binária completa
+ou quase completa (exceção está no último nível)
+- Cada posição do array passa a ser considerdo o "pai" de outras duas posições , chamadas "filhos"
+- Posição i é o pai , logo :
+    - Posição 2*i+1 é o filho da esquerda
+    - Posição 2*i+2 é o filho da direita
+- O pai sempre terá uma prioridade maior ou igual a prioridade do seus filhos
+
+. Custo :
+
+- Inserção O(log N)
+- Remoção O(log N)
+- Em ambas verificamoas as violações das propriedas do Heap e se necessário , corrigi-lás 
+
+. Inserção :
+
+- Insiro o elemento no final do array (primeira posição vaga)
+- Caminho com o elemento até sua respectiva posição na Heap de acordo com sua prioridade
+
+. Remoção :
+
+- Remover o elemento do topo da Heap (início do array)
+- Copiar elemento do final para o início do array
+- Levar elemento do topo da Heap para sua respectiva posição de acordo com sua prioridade
+

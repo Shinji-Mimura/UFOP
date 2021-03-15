@@ -1,0 +1,52 @@
+*Implementação no FP.c
+
+Filhas de Prioridade
+
+. Definição :
+
+- São um tipo especial de fila que generaliza a ideia de ordenação
+- Os elementos agora possuem consigo um dado "Prioridade"
+- O valor desta Prioridade determina a posição do elemento na fila , assim como quem deve ser removido primeiro
+
+. Aplicações :
+
+- Basicamente , problemas que seja preciso de estabelecer prioridades ao acesso de elementos
+
+. Operações :
+
+- Criar fila
+- Inserir elemento na fila com prioridade
+- Remoção do elemento com maior prioridade
+- Destruição da fila
+- Descobrir informações (Lista cheia , vazia e etc...)
+
+. Implementações :
+
+- Depende da sua aplicação
+- Algumas são mais eficientes que outras
+
+
+
+. Implementação Estática :
+
+- Vantagem : Permite utilizar a mesma estrutura da fila
+- Desvantagem : Necessita definar o tamanho , o que pode ocasionar em limitação no número
+de elementos
+
+. Inserções na Fila de Prioridade através de Array Ordenado :
+
+- Os elementos na fila são ordenados de forma crescente dentro do Array
+- os elementos de maior prioridade estarão no final do Array
+- os elementos menor prioridade estarão no início do Array
+
+. Custo :
+
+- Inserção O(N)
+- Remoção O(1)
+
+. Inserção :
+
+- Precisamos procurar o ponto de inserção de acordo com sua prioridade
+- Se caso seja no início ou meio , será necessário mudar os demais elementos do Array de posição
+
+

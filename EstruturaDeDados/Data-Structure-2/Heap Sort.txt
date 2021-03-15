@@ -1,0 +1,23 @@
+* Implementação no HeapSort.c
+
+HeapSort ou Ordenação por Heap
+
+. Definição :
+
+- Heap : Vetor que simula uma arvore binária quase completa
+- Todo elemento "pai" do vetor possuir dois elementos "filhos"
+- Pai (i) -> Filho (2*i+1) e Filho(2*i+2)
+
+. O HeapSort é recomendado/não recomendado :
+
+- Para aplicações que não podem tolerar eventualmente um caso desfavorável.
+- Não é recomendado para arquivos com poucos registros, por causa do tempo necessário para construir o heap
+
+. Vantagens :
+
+- O comportamento do Heapsort é sempre O(n log n), qualquer que seja a entrada
+
+. Desvantagens :
+
+- O anel interno do algoritmo é bastante complexo se comparado com o do Quicksort
+- O Heapsort não é estável

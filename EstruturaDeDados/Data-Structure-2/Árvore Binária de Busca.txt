@@ -1,0 +1,19 @@
+Árvore Binária de Busca
+
+. Árvores binárias por definição recursiva, é composta por um único nó raiz , que pode ter nenhum, um ou até no máximo 2 nós filhos que também são árvores binárias
+
+. Regras para inserção de um novo elemento:
+
+    1) Se ainda não há nó raiz, então o novo elemento será o próprio nó raiz
+    2) Se há nó raiz , então compare o novo elemento com o nó raiz:
+        caso I) Caso o novo elemento seja menor que o elemento do nó raiz , então o novo elemento é inserido na sub-árvore a da esquerda
+        caso II) Caso o novo elemento seja maior o elemento do nó raiz , então o novo elemento é inserido na sub-árvore a da direita
+ 
+. Regras para deletar nó:
+    
+    1) Caso seja um nó folha , somente deleta-lo 
+    2) Caso o nó possua outros nós folhas:
+        caso I) Remova o nó folha e coloque o filho da esquerda no lugar
+        caso II) Remova o nó folha e coloque o filho da direita no lugar
+ 
+ * Porém sempre colocaremos no lugar do nó deletado , usaremos o maior elemento da sub-árvore a esquerda ou o menor elemento da sub-árvore a direita , assim mantento a árvore correta

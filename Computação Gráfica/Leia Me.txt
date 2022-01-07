@@ -1,3 +1,3 @@
-Por se tratar de um game em unity com arquivos de tamanho elevado, decidi por compactar o game em .rar e disponibilizá-lo para download
+Por se tratar de um game em unity com arquivos de tamanho elevado, decidi por compactar o game e disponibilizá-lo para download
 
 Link para o Game (com o código): https://drive.google.com/file/d/17jFXfMvZnatU-Sd5rCvUlNjWJmCyo_Kp/view?usp=sharing

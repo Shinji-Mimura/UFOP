@@ -1,0 +1,5 @@
+<map id="unit_flow_getInput" name="unit_flow_getInput">
+<area shape="rect" id="node1" title="Test of flow get input method return void." alt="" coords="5,5,131,32"/>
+<area shape="rect" id="node2" href="$class_flow_handle.html#ac8d9fa4505dff419523e3d6f3865ab31" title="Get input system in flow." alt="" coords="179,5,321,32"/>
+<area shape="rect" id="node3" href="$class_flow_body.html#a225120421169329c958e2f74ec9ecc2d" title=" " alt="" coords="369,5,503,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="unit_system_setContent" name="unit_system_setContent">
+<area shape="rect" id="node1" title="Test of system set content method." alt="" coords="5,31,168,57"/>
+<area shape="rect" id="node2" href="$class_system.html#ac41d66a3a95a829b8ced4082377916a1" title="Get content of current system." alt="" coords="216,5,355,32"/>
+<area shape="rect" id="node3" href="$class_system.html#add5c6d73b556d6a9600dd66df83ae965" title="Set content to current system." alt="" coords="216,56,355,83"/>
+</map>

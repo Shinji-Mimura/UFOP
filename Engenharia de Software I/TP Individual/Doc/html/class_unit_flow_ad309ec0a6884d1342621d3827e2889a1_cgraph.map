@@ -1,0 +1,15 @@
+<map id="UnitFlow::unit_flow_assignmentOperator" name="UnitFlow::unit_flow_assignmentOperator">
+<area shape="rect" id="node1" title=" " alt="" coords="5,125,152,166"/>
+<area shape="rect" id="node2" href="$class_flow_handle.html#ac8d9fa4505dff419523e3d6f3865ab31" title="Get input system in flow." alt="" coords="206,5,349,32"/>
+<area shape="rect" id="node4" href="$class_flow_handle.html#ae0a235e5fc4c8843ffc94af7e902e487" title="Get name of current flow." alt="" coords="203,56,352,83"/>
+<area shape="rect" id="node6" href="$class_flow_handle.html#af2060e38f785fdb7ef8bb9b38447cb12" title="Get output system in flow." alt="" coords="200,107,355,133"/>
+<area shape="rect" id="node8" href="$class_flow_handle.html#a084feef105206f617b4818d9db8137cc" title="Set input system in flow." alt="" coords="206,157,349,184"/>
+<area shape="rect" id="node10" href="$class_flow_handle.html#a081c5ecb8cf1d2419f4ec897671daaa4" title="Set name of current flow." alt="" coords="203,208,352,235"/>
+<area shape="rect" id="node12" href="$class_flow_handle.html#a692e84e53cdbd506a33e45bb80a313d4" title="Set output system in flow." alt="" coords="200,259,355,285"/>
+<area shape="rect" id="node3" href="$class_flow_body.html#a225120421169329c958e2f74ec9ecc2d" title=" " alt="" coords="408,5,541,32"/>
+<area shape="rect" id="node5" href="$class_flow_body.html#af4ae72e8c2ec05eeb54f28617b2dca61" title=" " alt="" coords="405,56,544,83"/>
+<area shape="rect" id="node7" href="$class_flow_body.html#ae118ef7ecfa5b394cdc5da942f0a1a94" title=" " alt="" coords="403,107,547,133"/>
+<area shape="rect" id="node9" href="$class_flow_body.html#a43d0dae186d3f01a2883e29ac4fb2777" title=" " alt="" coords="408,157,541,184"/>
+<area shape="rect" id="node11" href="$class_flow_body.html#aa6991ecb893457b14b25ddcf904b0546" title=" " alt="" coords="405,208,544,235"/>
+<area shape="rect" id="node13" href="$class_flow_body.html#a50d60fc6276f7e40cde1fcc2955fa186" title=" " alt="" coords="403,259,547,285"/>
+</map>

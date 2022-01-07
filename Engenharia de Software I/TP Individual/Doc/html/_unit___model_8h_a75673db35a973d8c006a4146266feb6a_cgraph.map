@@ -1,0 +1,5 @@
+<map id="unit_model_destructor" name="unit_model_destructor">
+<area shape="rect" id="node1" title="Test of model destructor." alt="" coords="5,31,156,57"/>
+<area shape="rect" id="node2" href="$class_model.html#a57910e9a0f2cf41862da928e3edcf974" title="Add flow in flow&#39;s vector inside model." alt="" coords="213,5,326,32"/>
+<area shape="rect" id="node3" href="$class_model.html#ae865c4d9d2a9e69b166f18249197ca1f" title="Add system in system&#39;s vector inside model." alt="" coords="204,56,335,83"/>
+</map>

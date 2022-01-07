@@ -1,0 +1,1 @@
+Por se tratar de um game em unity com arquivos de tamanhos elevados, decidi por compactar o game em .rar para não atrapalhar o download ou clone do repositório

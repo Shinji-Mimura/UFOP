@@ -1,0 +1,9 @@
+<map id="unit_model_constructor" name="unit_model_constructor">
+<area shape="rect" id="node1" title="Test of model constructor." alt="" coords="5,132,163,159"/>
+<area shape="rect" id="node2" href="$class_model.html#a57910e9a0f2cf41862da928e3edcf974" title="Add flow in flow&#39;s vector inside model." alt="" coords="225,5,338,32"/>
+<area shape="rect" id="node3" href="$class_model.html#ae865c4d9d2a9e69b166f18249197ca1f" title="Add system in system&#39;s vector inside model." alt="" coords="216,56,347,83"/>
+<area shape="rect" id="node4" href="$class_model.html#ae90ea27c1e399916634425aad4864487" title="Return the begin of flow vector iterator." alt="" coords="220,107,343,133"/>
+<area shape="rect" id="node5" href="$class_model.html#a0ee12a21a1efa94a3ad247dc2db27ca7" title="Return the begin of system vector iterator." alt="" coords="211,157,352,184"/>
+<area shape="rect" id="node6" href="$class_model.html#a342b9894baa59c615e035f49efc44662" title="Return the end of system vector iterator." alt="" coords="216,208,347,235"/>
+<area shape="rect" id="node7" href="$class_model.html#a25888f082f6b4c819b02ef3aa6e086c0" title="Get name of current model." alt="" coords="223,259,340,285"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="System::getName" name="System::getName">
+<area shape="rect" id="node1" title="Get name of current system." alt="" coords="524,115,651,141"/>
+<area shape="rect" id="node2" href="$_unit___model_8cpp.html#ab1bf5d18fed64aa2d9000d40a87e5dd3" title="Test of model add system method." alt="" coords="312,5,471,32"/>
+<area shape="rect" id="node5" href="$_unit___system_8cpp.html#a9b6fbdfa7c98ba246778d8ecb21b90fd" title="Test of system constructor." alt="" coords="309,56,474,83"/>
+<area shape="rect" id="node7" href="$class_unit_system.html#af3f0868ef4c36d676b88ad58ca587a88" title=" " alt="" coords="307,107,476,149"/>
+<area shape="rect" id="node8" href="$_unit___system_8cpp.html#ac9d051065c245fd414c6db3318a59fdd" title="Test of system get name method." alt="" coords="315,173,467,200"/>
+<area shape="rect" id="node9" href="$_unit___system_8cpp.html#a69bbad74fc2fc1671653bbe01ec6a473" title="Test of system set name method." alt="" coords="315,224,467,251"/>
+<area shape="rect" id="node3" href="$_unit___model_8cpp.html#a310f5d7d064c0c5d2e6423c9f3a463fb" title="Function to run all models unit tests." alt="" coords="108,35,255,61"/>
+<area shape="rect" id="node4" href="$test_2unit_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,89,56,116"/>
+<area shape="rect" id="node6" href="$_unit___system_8cpp.html#afb68191bc1be68b04485884a3922d84f" title="Function to run all system unit tests." alt="" coords="104,115,259,141"/>
+</map>

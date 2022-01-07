@@ -1,0 +1,5 @@
+<map id="unit_system_constructor" name="unit_system_constructor">
+<area shape="rect" id="node1" title="Test of system constructor." alt="" coords="5,31,171,57"/>
+<area shape="rect" id="node2" href="$class_system.html#ac41d66a3a95a829b8ced4082377916a1" title="Get content of current system." alt="" coords="219,5,357,32"/>
+<area shape="rect" id="node3" href="$class_system.html#afbdf2f80a34acdee62584a29c864c620" title="Get name of current system." alt="" coords="225,56,351,83"/>
+</map>

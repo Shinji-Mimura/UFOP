@@ -1,0 +1,7 @@
+<map id="unit_model_removeFlow" name="unit_model_removeFlow">
+<area shape="rect" id="node1" title="Test of model remove flow method." alt="" coords="5,81,165,108"/>
+<area shape="rect" id="node2" href="$class_model.html#a57910e9a0f2cf41862da928e3edcf974" title="Add flow in flow&#39;s vector inside model." alt="" coords="223,5,337,32"/>
+<area shape="rect" id="node3" href="$class_model.html#ae90ea27c1e399916634425aad4864487" title="Return the begin of flow vector iterator." alt="" coords="219,56,341,83"/>
+<area shape="rect" id="node4" href="$class_model.html#a9920e05e0899c781a0aaf493875e7f0d" title="Return the end of flow vector iterator." alt="" coords="223,107,337,133"/>
+<area shape="rect" id="node5" href="$class_model.html#a3b7b766588a8882cc5ae8fcfaec5425c" title="Remove specific flow inside flow&#39;s vector using his name." alt="" coords="213,157,347,184"/>
+</map>

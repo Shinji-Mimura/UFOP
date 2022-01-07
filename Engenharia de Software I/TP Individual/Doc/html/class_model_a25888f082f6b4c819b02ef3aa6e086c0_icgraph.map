@@ -1,0 +1,8 @@
+<map id="Model::getName" name="Model::getName">
+<area shape="rect" id="node1" title="Get name of current model." alt="" coords="504,56,621,83"/>
+<area shape="rect" id="node2" href="$_unit___model_8cpp.html#a172588ae62e1d8f985f04154ee1f6b49" title="Test of model constructor." alt="" coords="299,5,456,32"/>
+<area shape="rect" id="node5" href="$_unit___model_8cpp.html#a628d685951b3cfc03682a4cb666199dc" title="Test of model get name method." alt="" coords="305,56,449,83"/>
+<area shape="rect" id="node6" href="$_unit___model_8cpp.html#a69d8a3520058c5b3c0a79db4047e001e" title="Test of model set name method." alt="" coords="305,107,449,133"/>
+<area shape="rect" id="node3" href="$_unit___model_8cpp.html#a310f5d7d064c0c5d2e6423c9f3a463fb" title="Function to run all models unit tests." alt="" coords="104,56,251,83"/>
+<area shape="rect" id="node4" href="$test_2unit_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,56,56,83"/>
+</map>

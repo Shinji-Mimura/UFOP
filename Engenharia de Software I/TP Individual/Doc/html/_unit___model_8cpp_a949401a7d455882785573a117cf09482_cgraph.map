@@ -1,0 +1,7 @@
+<map id="unit_model_addFlow" name="unit_model_addFlow">
+<area shape="rect" id="node1" title="Test of model add flow method." alt="" coords="5,56,145,83"/>
+<area shape="rect" id="node2" href="$class_model.html#a57910e9a0f2cf41862da928e3edcf974" title="Add flow in flow&#39;s vector inside model." alt="" coords="211,5,325,32"/>
+<area shape="rect" id="node3" href="$class_model.html#ae90ea27c1e399916634425aad4864487" title="Return the begin of flow vector iterator." alt="" coords="207,56,329,83"/>
+<area shape="rect" id="node4" href="$class_flow_handle.html#ae0a235e5fc4c8843ffc94af7e902e487" title="Get name of current flow." alt="" coords="193,107,343,133"/>
+<area shape="rect" id="node5" href="$class_flow_body.html#af4ae72e8c2ec05eeb54f28617b2dca61" title=" " alt="" coords="391,107,529,133"/>
+</map>

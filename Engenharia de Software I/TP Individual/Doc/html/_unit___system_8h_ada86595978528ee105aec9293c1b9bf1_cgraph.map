@@ -1,0 +1,4 @@
+<map id="unit_system_getContent" name="unit_system_getContent">
+<area shape="rect" id="node1" title="Test of system get content method." alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node2" href="$class_system.html#ac41d66a3a95a829b8ced4082377916a1" title="Get content of current system." alt="" coords="216,5,355,32"/>
+</map>

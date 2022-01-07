@@ -1,0 +1,78 @@
+Pesquisa Sequencial e Binária
+
+. Conceitos básicos :
+
+- É um estudo de como recuperar informação a partir de uma grande
+massa de informação já armazenada
+- A informação está divida em registros
+- Cada registro possui uma chave que será utilizada para pesquisa 
+- Objetivo da pesquisa : encontrar registros com chaves iguais a chave de pesquisa 
+
+. TADS
+
+- É importante considera-los TADS de tal forma que haja independência
+em sua implementações
+
+. Operações mais comuns :
+
+- Inicializar a Estrutura de Dados
+- Pesquisar um ou mais registros com determinada chave
+- Inserir um novo registro
+- Retirar um registro específico
+
+. TAD Dicionário :
+
+- Inicializa 
+- Pesquisa 
+- Insere 
+- Retira 
+
+. Analogias com Dicionário :
+
+- Chaves -> Palavras
+- Registros -> Pronúncia , Definição, Sinônimos e etc...
+
+Métodos de Pesquisa
+
+=======================================
+
+. Pesquisa Sequencial :
+
+- Mais simples , procura a partir do primeiro registro até encontrar a chave procurada e então para
+- Conjunto armazenado por meio de Array
+- Retorna o índice do registro que contém a chave X
+- Caso não encontre , retorna -1
+- Retorna somente o primeiro registro encontrado , caso tenha registros com chaves iguais , não será útil 
+- É a melhor escolha para pesquisa em tabelas
+
+Pesquisa com sucesso :
+
+- Melho caso : C(n) = 1
+- Pior caso : C(n) = n
+- Caso médio : C(n) = (n+1) / 2
+
+Pesquisa sem sucesso :
+
+- C(n) = n+1
+
+=======================================
+
+. Pesquisa por Busca Binária :
+
+- Se os registros estiverem em ordem , será mais eficiente a Busca
+- Compara a chave que está no registro do meio da tabela e realiza a pergunta
+
+1) Chave menor ? se sim , procura na primeira metade da tabela
+
+2) Chave Maior ? se sim , procura na segunda metade da tabela
+
+- Repete o processo até que se encontre a chave ou constate que não existe
+
+. Análise :
+
+- A cada interação a tabela é dividida ao meio 
+- Logo , o número de vezes que é dividido é cerca de log n
+- O custo para manter a tabela ordenada é alto
+- Não deve ser utilizada em aplicações muito dinâmicas
+
+=======================================

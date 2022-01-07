@@ -1,0 +1,15 @@
+#!/bin/bash
+
+cd ../../src
+
+if [[ -f ordena ]]
+then
+  rm ordena
+fi
+
+if [[ -f temp.bin ]]
+then
+  rm temp.bin
+fi
+
+gcc *.c -Wall -o ordena

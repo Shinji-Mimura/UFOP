@@ -1,5 +1,0 @@
-<map id="unit_system_setName" name="unit_system_setName">
-<area shape="rect" id="node1" title="Test of system set name method." alt="" coords="5,31,157,57"/>
-<area shape="rect" id="node2" href="$class_system.html#afbdf2f80a34acdee62584a29c864c620" title="Get name of current system." alt="" coords="205,5,332,32"/>
-<area shape="rect" id="node3" href="$class_system.html#afe381855cfc606c7d109f590396928e7" title="Set name of system." alt="" coords="205,56,332,83"/>
-</map>

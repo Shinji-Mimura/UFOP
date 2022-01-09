@@ -1,7 +1,0 @@
-<map id="unit_model_removeSystem" name="unit_model_removeSystem">
-<area shape="rect" id="node1" title="Test of model remove system method." alt="" coords="5,81,184,108"/>
-<area shape="rect" id="node2" href="$class_model.html#ae865c4d9d2a9e69b166f18249197ca1f" title="Add system in system&#39;s vector inside model." alt="" coords="242,5,373,32"/>
-<area shape="rect" id="node3" href="$class_model.html#a0ee12a21a1efa94a3ad247dc2db27ca7" title="Return the begin of system vector iterator." alt="" coords="237,56,378,83"/>
-<area shape="rect" id="node4" href="$class_model.html#a342b9894baa59c615e035f49efc44662" title="Return the end of system vector iterator." alt="" coords="242,107,373,133"/>
-<area shape="rect" id="node5" href="$class_model.html#abc5ecea2adccb2cdf11a73eb34c83643" title="Remove specific system inside system&#39;s vector using his name." alt="" coords="232,157,383,184"/>
-</map>

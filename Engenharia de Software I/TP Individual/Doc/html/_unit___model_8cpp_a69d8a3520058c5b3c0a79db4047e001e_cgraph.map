@@ -1,5 +1,0 @@
-<map id="unit_model_setName" name="unit_model_setName">
-<area shape="rect" id="node1" title="Test of model set name method." alt="" coords="5,31,149,57"/>
-<area shape="rect" id="node2" href="$class_model.html#a25888f082f6b4c819b02ef3aa6e086c0" title="Get name of current model." alt="" coords="197,5,315,32"/>
-<area shape="rect" id="node3" href="$class_model.html#a7ff2a777eee13d63c6a309f51259f80a" title="Set name to current model." alt="" coords="197,56,315,83"/>
-</map>

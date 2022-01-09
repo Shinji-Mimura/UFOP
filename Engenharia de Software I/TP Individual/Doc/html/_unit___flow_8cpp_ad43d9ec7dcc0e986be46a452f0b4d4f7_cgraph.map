@@ -1,7 +1,0 @@
-<map id="unit_flow_setInput" name="unit_flow_setInput">
-<area shape="rect" id="node1" title="Test of flow set input method return void." alt="" coords="5,31,131,57"/>
-<area shape="rect" id="node2" href="$class_flow_handle.html#ac8d9fa4505dff419523e3d6f3865ab31" title="Get input system in flow." alt="" coords="179,5,321,32"/>
-<area shape="rect" id="node4" href="$class_flow_handle.html#a084feef105206f617b4818d9db8137cc" title="Set input system in flow." alt="" coords="179,56,321,83"/>
-<area shape="rect" id="node3" href="$class_flow_body.html#a225120421169329c958e2f74ec9ecc2d" title=" " alt="" coords="369,5,503,32"/>
-<area shape="rect" id="node5" href="$class_flow_body.html#a43d0dae186d3f01a2883e29ac4fb2777" title=" " alt="" coords="369,56,503,83"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="ExponentialFlow::equation" name="ExponentialFlow::equation">
-<area shape="rect" id="node1" title="The equation used in the flows execution." alt="" coords="5,31,180,57"/>
-<area shape="rect" id="node2" href="$class_flow_handle.html#ac8d9fa4505dff419523e3d6f3865ab31" title="Get input system in flow." alt="" coords="234,5,377,32"/>
-<area shape="rect" id="node4" href="$class_flow_handle.html#af2060e38f785fdb7ef8bb9b38447cb12" title="Get output system in flow." alt="" coords="228,56,383,83"/>
-<area shape="rect" id="node3" href="$class_flow_body.html#a225120421169329c958e2f74ec9ecc2d" title=" " alt="" coords="436,5,569,32"/>
-<area shape="rect" id="node5" href="$class_flow_body.html#ae118ef7ecfa5b394cdc5da942f0a1a94" title=" " alt="" coords="431,56,575,83"/>
-</map>

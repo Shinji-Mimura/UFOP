@@ -1,8 +1,0 @@
-<map id="ModelHandle::execute" name="ModelHandle::execute">
-<area shape="rect" id="node1" title="Execute all flow&#39;s equation in model." alt="" coords="5,81,156,108"/>
-<area shape="rect" id="node2" href="$class_model_body.html#aa5e0af7a51e299de500a7180f0659f4d" title=" " alt="" coords="204,81,345,108"/>
-<area shape="rect" id="node3" href="$class_model_body.html#ad66281cbe6ac5062a34a235f73bccecc" title=" " alt="" coords="393,5,547,32"/>
-<area shape="rect" id="node4" href="$class_model_body.html#a8dc8f29929525ca0a0b035d39ad3746f" title=" " alt="" coords="399,56,541,83"/>
-<area shape="rect" id="node5" href="$class_system.html#ac41d66a3a95a829b8ced4082377916a1" title="Get content of current system." alt="" coords="401,107,539,133"/>
-<area shape="rect" id="node6" href="$class_system.html#add5c6d73b556d6a9600dd66df83ae965" title="Set content to current system." alt="" coords="401,157,539,184"/>
-</map>

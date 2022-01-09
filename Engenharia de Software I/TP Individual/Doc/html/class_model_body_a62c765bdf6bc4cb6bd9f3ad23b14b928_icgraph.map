@@ -1,6 +1,0 @@
-<map id="ModelBody::beginSystem" name="ModelBody::beginSystem">
-<area shape="rect" id="node1" title=" " alt="" coords="473,31,644,57"/>
-<area shape="rect" id="node2" href="$class_model_handle.html#ad5077111eb9dd31985554a16f18b8c6c" title="Return the begin of system vector iterator." alt="" coords="244,5,425,32"/>
-<area shape="rect" id="node3" href="$class_model_body.html#a8fb81aec6623cb5883f9e1f9f9c0b4b1" title=" " alt="" coords="244,56,425,83"/>
-<area shape="rect" id="node4" href="$class_model_handle.html#a00ba9677682c0ec5a8525749aa4ee459" title="Remove specific system inside system&#39;s vector using his name." alt="" coords="5,56,196,83"/>
-</map>

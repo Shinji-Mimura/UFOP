@@ -1,9 +1,0 @@
-<map id="unit_flow_constructor" name="unit_flow_constructor">
-<area shape="rect" id="node1" title="Test of flow constructor return void." alt="" coords="5,56,149,83"/>
-<area shape="rect" id="node2" href="$class_flow_handle.html#ac8d9fa4505dff419523e3d6f3865ab31" title="Get input system in flow." alt="" coords="203,5,346,32"/>
-<area shape="rect" id="node4" href="$class_flow_handle.html#ae0a235e5fc4c8843ffc94af7e902e487" title="Get name of current flow." alt="" coords="200,56,349,83"/>
-<area shape="rect" id="node6" href="$class_flow_handle.html#af2060e38f785fdb7ef8bb9b38447cb12" title="Get output system in flow." alt="" coords="197,107,352,133"/>
-<area shape="rect" id="node3" href="$class_flow_body.html#a225120421169329c958e2f74ec9ecc2d" title=" " alt="" coords="405,5,539,32"/>
-<area shape="rect" id="node5" href="$class_flow_body.html#af4ae72e8c2ec05eeb54f28617b2dca61" title=" " alt="" coords="403,56,541,83"/>
-<area shape="rect" id="node7" href="$class_flow_body.html#ae118ef7ecfa5b394cdc5da942f0a1a94" title=" " alt="" coords="400,107,544,133"/>
-</map>

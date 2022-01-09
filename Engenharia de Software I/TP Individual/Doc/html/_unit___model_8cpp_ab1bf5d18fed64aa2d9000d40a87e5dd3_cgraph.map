@@ -1,6 +1,0 @@
-<map id="unit_model_addSystem" name="unit_model_addSystem">
-<area shape="rect" id="node1" title="Test of model add system method." alt="" coords="5,56,164,83"/>
-<area shape="rect" id="node2" href="$class_model.html#ae865c4d9d2a9e69b166f18249197ca1f" title="Add system in system&#39;s vector inside model." alt="" coords="217,5,348,32"/>
-<area shape="rect" id="node3" href="$class_model.html#a0ee12a21a1efa94a3ad247dc2db27ca7" title="Return the begin of system vector iterator." alt="" coords="212,56,353,83"/>
-<area shape="rect" id="node4" href="$class_system.html#afbdf2f80a34acdee62584a29c864c620" title="Get name of current system." alt="" coords="219,107,346,133"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="unit_flow_removeInput" name="unit_flow_removeInput">
-<area shape="rect" id="node1" title="Test of flow remove input method return void." alt="" coords="5,56,153,83"/>
-<area shape="rect" id="node2" href="$class_flow_handle.html#ac8d9fa4505dff419523e3d6f3865ab31" title="Get input system in flow." alt="" coords="213,5,356,32"/>
-<area shape="rect" id="node4" href="$class_flow_handle.html#a77d07718c7833b7db0bdfb57788f2772" title="Set to null flow input." alt="" coords="201,56,368,83"/>
-<area shape="rect" id="node6" href="$class_flow_handle.html#a084feef105206f617b4818d9db8137cc" title="Set input system in flow." alt="" coords="213,107,356,133"/>
-<area shape="rect" id="node3" href="$class_flow_body.html#a225120421169329c958e2f74ec9ecc2d" title=" " alt="" coords="427,5,561,32"/>
-<area shape="rect" id="node5" href="$class_flow_body.html#ac8802cfe8b28ffc48c9539bab8ac3ea2" title=" " alt="" coords="416,56,572,83"/>
-<area shape="rect" id="node7" href="$class_flow_body.html#a43d0dae186d3f01a2883e29ac4fb2777" title=" " alt="" coords="427,107,561,133"/>
-</map>

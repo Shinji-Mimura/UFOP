@@ -1,6 +1,0 @@
-<map id="FlowHandle::removeOutput" name="FlowHandle::removeOutput">
-<area shape="rect" id="node1" title="Set to null flow output." alt="" coords="492,5,669,32"/>
-<area shape="rect" id="node2" href="$_unit___flow_8cpp.html#a104f5e5095f08eda1e83da05ae5c487d" title="Test of flow remove output method return void." alt="" coords="285,5,444,32"/>
-<area shape="rect" id="node3" href="$_unit___flow_8cpp.html#a44d8a3170a3ac12683feef3d4bcd3554" title="Function to run all flows unit tests return void." alt="" coords="104,5,237,32"/>
-<area shape="rect" id="node4" href="$test_2unit_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,56,32"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="unit_flow_removeOutput" name="unit_flow_removeOutput">
-<area shape="rect" id="node1" title="Test of flow remove output method return void." alt="" coords="5,56,164,83"/>
-<area shape="rect" id="node2" href="$class_flow_handle.html#af2060e38f785fdb7ef8bb9b38447cb12" title="Get output system in flow." alt="" coords="223,5,378,32"/>
-<area shape="rect" id="node4" href="$class_flow_handle.html#ac44c1a28157af99dbc478cdc93be8e13" title="Set to null flow output." alt="" coords="212,56,389,83"/>
-<area shape="rect" id="node6" href="$class_flow_handle.html#a692e84e53cdbd506a33e45bb80a313d4" title="Set output system in flow." alt="" coords="223,107,378,133"/>
-<area shape="rect" id="node3" href="$class_flow_body.html#ae118ef7ecfa5b394cdc5da942f0a1a94" title=" " alt="" coords="449,5,593,32"/>
-<area shape="rect" id="node5" href="$class_flow_body.html#a9de4b9f9c6da184a4676152c655bf150" title=" " alt="" coords="437,56,604,83"/>
-<area shape="rect" id="node7" href="$class_flow_body.html#a50d60fc6276f7e40cde1fcc2955fa186" title=" " alt="" coords="449,107,593,133"/>
-</map>

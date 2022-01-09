@@ -1,8 +1,0 @@
-<map id="FlowHandle" name="FlowHandle">
-<area shape="rect" id="node1" title=" " alt="" coords="144,80,233,107"/>
-<area shape="rect" id="node4" href="$class_complex_flow.html" title=" " alt="" coords="5,155,105,181"/>
-<area shape="rect" id="node5" href="$class_exponential_flow.html" title=" " alt="" coords="130,155,247,181"/>
-<area shape="rect" id="node6" href="$class_logistical_flow.html" title=" " alt="" coords="271,155,375,181"/>
-<area shape="rect" id="node2" href="$class_flow.html" title=" " alt="" coords="104,5,153,32"/>
-<area shape="rect" id="node3" href="$class_handle.html" title=" " alt="" coords="177,5,320,32"/>
-</map>

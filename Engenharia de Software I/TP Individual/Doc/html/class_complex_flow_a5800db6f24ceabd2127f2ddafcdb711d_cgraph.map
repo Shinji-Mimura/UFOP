@@ -1,6 +1,0 @@
-<map id="ComplexFlow::equation" name="ComplexFlow::equation">
-<area shape="rect" id="node1" title="The equation used in the flows execution." alt="" coords="5,31,163,57"/>
-<area shape="rect" id="node2" href="$class_system.html#ac41d66a3a95a829b8ced4082377916a1" title="Get content of current system." alt="" coords="213,5,351,32"/>
-<area shape="rect" id="node3" href="$class_flow_handle.html#ac8d9fa4505dff419523e3d6f3865ab31" title="Get input system in flow." alt="" coords="211,56,353,83"/>
-<area shape="rect" id="node4" href="$class_flow_body.html#a225120421169329c958e2f74ec9ecc2d" title=" " alt="" coords="401,56,535,83"/>
-</map>

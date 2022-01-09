@@ -1,7 +1,0 @@
-<map id="unit_flow_setOutput" name="unit_flow_setOutput">
-<area shape="rect" id="node1" title="Test of flow set output method return void." alt="" coords="5,31,141,57"/>
-<area shape="rect" id="node2" href="$class_flow_handle.html#af2060e38f785fdb7ef8bb9b38447cb12" title="Get output system in flow." alt="" coords="189,5,344,32"/>
-<area shape="rect" id="node4" href="$class_flow_handle.html#a692e84e53cdbd506a33e45bb80a313d4" title="Set output system in flow." alt="" coords="189,56,344,83"/>
-<area shape="rect" id="node3" href="$class_flow_body.html#ae118ef7ecfa5b394cdc5da942f0a1a94" title=" " alt="" coords="392,5,536,32"/>
-<area shape="rect" id="node5" href="$class_flow_body.html#a50d60fc6276f7e40cde1fcc2955fa186" title=" " alt="" coords="392,56,536,83"/>
-</map>

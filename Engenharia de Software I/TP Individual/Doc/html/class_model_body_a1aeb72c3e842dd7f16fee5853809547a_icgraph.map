@@ -1,6 +1,0 @@
-<map id="ModelBody::addSystem" name="ModelBody::addSystem">
-<area shape="rect" id="node1" title=" " alt="" coords="464,31,625,57"/>
-<area shape="rect" id="node2" href="$class_model_handle.html#a30ede7a1ddb0e8a3789e3d1817218b88" title="Add system in system&#39;s vector inside model." alt="" coords="243,5,413,32"/>
-<area shape="rect" id="node3" href="$class_model_body.html#a8613059908c318a082d534df01fb3d1c" title=" " alt="" coords="240,56,416,83"/>
-<area shape="rect" id="node4" href="$class_model_handle.html#a15730c769497ac0f0d756c63f522aaf3" title="Create system via model." alt="" coords="5,56,192,83"/>
-</map>

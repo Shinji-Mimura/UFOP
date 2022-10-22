@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include 'header.html' %}
+
+  <body>
+    {% include 'navbar-dash.html' %}
+
+    <div class="ui aligned container" style="padding-top: 50px">
+      <div class="ui secondary center aligned segment">
+        <form method="POST" enctype="multipart/form-data">
+          {{form.hidden_tag()}} {{form.photo(class="form")}}
+          {{form.submit(class="ui green button", onclick="callLoader()")}}
+        </form>
+      </div>
+
+      <div class="ui segment" style="margin-top: 50px">
+        <div id="loader" class="ui active dimmer">
+          <div class="ui indeterminate loader"></div>
+        </div>
+
+        <div class="ui centered stackable three cards">
+          {% for i in range(file_urls|length) %} {% if file_urls[i] != "" %}
+
+          <div class="ui link card" id="card1">
+            <div class="image">
+              <img src="{{file_urls[i]}}" alt="" />
+            </div>
+            <div class="content">
+              <span class="header">{{images_name[i]}}</span>
+              <div class="meta">Last Change: {{images_upload[i]}}</div>
+              <div class="description">{{images_description[i]}}</div>
+            </div>
+            <div class="extra content">
+              <div class="ui small labels">
+                <div class="ui basic label">
+                  <i class="envira icon"></i>{{images_id[i]}}
+                </div>
+              </div>
+            </div>
+            <div class="ui bottom attached buttons">
+              <a
+                href="/deleteImage/{{images_id[i]}}"
+                class="ui red bottom attached button"
+                onclick="callLoader()"
+                ><i class="trash icon"></i>Delete
+              </a>
+              <div class="or" data-text="or"></div>
+              <a
+                href="/analyzeImage/{{images_id[i]}}"
+                class="ui blue bottom attached button"
+                onclick="callLoader()"
+                ><i class="upload icon"></i>Analyze
+              </a>
+            </div>
+          </div>
+
+          {% endif %} {% endfor %}
+        </div>
+      </div>
+    </div>
+  </body>
+
+  <script>
+    $(document).ready(function () {
+      var loader = document.getElementById("loader");
+      loader.classList.remove("active");
+    });
+
+    function callLoader() {
+      var loader = document.getElementById("loader");
+      loader.classList.add("active");
+    }
+  </script>
+</html>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include 'header.html' %}
+
+  <body>
+    {% include 'navbar-dash.html' %}
+
+    <div class="ui center aligned container">
+      <div class="ui red segment" id="login-segment">
+        <div class="ui two column stackable center aligned grid relaxed">
+          <div class="middle aligned row">
+            <div class="column">
+              <img
+                src="../static/images/tupalogo.png"
+                class="ui bordered image"
+              />
+            </div>
+            <div class="ui vertical divider"></div>
+            <div class="column">
+              <form
+                class="ui form"
+                method="POST"
+                id="delete-form"
+                action="/deleteAccount"
+              >
+                <div class="">
+                  <div class="field">
+                    <div class="ui left icon input">
+                      <i class="user icon"></i>
+                      <input
+                        type="text"
+                        name="email"
+                        placeholder="E-mail address"
+                        id="email-address"
+                        required
+                      />
+                    </div>
+                  </div>
+                  <div class="field">
+                    <div class="ui left icon input">
+                      <i class="lock icon"></i>
+                      <input
+                        type="password"
+                        name="password"
+                        placeholder="Password"
+                        required
+                      />
+                    </div>
+                  </div>
+                  <button
+                    class="ui fluid large red submit button"
+                    type="submit"
+                  >
+                    Delete
+                  </button>
+                  <div class="field" style="margin-top: 10px">
+                    <span>{{error}}</span>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+
+  <script src="../static/js/form-signin.js"></script>
+</html>

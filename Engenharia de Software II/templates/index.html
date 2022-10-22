@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include 'header.html' %}
+
+  <body>
+    {% include 'navbar.html' %}
+
+    <div class="ui container" style="padding-top: 20px; padding-bottom: 60px">
+      <div class="ui segments" style="margin-top: 40px; margin-bottom: 60px">
+        <div class="ui secondary center aligned blue segment">
+          <h4><i class="seedling icon"></i>Who We Are?</h4>
+        </div>
+        <div class="ui segment">
+          <p>
+            Tupã Botanical is a project developed during the course
+            <strong>
+              Software Engineering II taught at the Federal University of Ouro
+              Preto</strong
+            >
+            <br />
+            The project aims to facilitate the administration of home gardens
+            through the identification and classification of plant images sent
+            by the users themselves <br />
+            The classification of the plants is made through the use of an
+            artificial intelligence that will the plant, search for information
+            about it and send it to the user, where the user can managing this
+            information through the use of cards
+          </p>
+        </div>
+      </div>
+
+      <div class="ui segments">
+        <div class="ui secondary center aligned green segment">
+          <h4>Example Cards</h4>
+        </div>
+        <div class="ui segment">
+          <div class="ui centered stackable two cards">
+            <div class="ui link card" id="card1">
+              <div class="image">
+                <img src="../static/images/plant1.jpg" alt="" />
+              </div>
+              <div class="content">
+                <span class="header">Cactus (Example)</span>
+                <div class="meta">Uploaded: 00/00/0000</div>
+                <div class="description">
+                  A cactus (plural cacti, cactuses, or less commonly, cactus) is
+                  a member of the plant family Cactaceae, a family comprising
+                  about 127 genera with some 1750 known species of the order
+                  Caryophyllales. The word cactus derives, through Latin, from
+                  the Ancient Greek word κάκτος (káktos), a name originally used
+                  by Theophrastus for a spiny plant whose identity is now not
+                  certain. Cacti occur in a wide range of shapes and sizes.
+                  Although some species live in quite humid environments, most
+                  cacti live in habitats subject to at least some drought. Many
+                  live in extremely dry environments, even being found in the
+                  Atacama Desert, one of the driest places on Earth. Because of
+                  this, cacti show many adaptations to conserve water. For
+                  example, almost all cacti are succulents, meaning they have
+                  thickened, fleshy parts adapted to store water. Unlike many
+                  other succulents, the stem is the only part of most cacti
+                  where this vital process takes place. Most species of cacti
+                  have lost true leaves, retaining only spines, which are highly
+                  modified leaves. As well as defending against herbivores,
+                  spines help prevent water loss by reducing air flow close to
+                  the cactus and providing some shade. In the absence of true
+                  leaves, cacti's enlarged stems carry out photosynthesis. Cacti
+                  are native to the Americas, ranging from Patagonia in the
+                  south to parts of western Canada in the north—except for
+                  Rhipsalis baccifera, which also grows in Africa and Sri Lanka.
+                </div>
+              </div>
+              <div class="extra content">
+                <div class="ui small labels">
+                  <div class="ui basic label">
+                    <i class="envira icon"></i>TAG ID I
+                  </div>
+                </div>
+              </div>
+              <a
+                href="#"
+                class="ui red bottom attached button"
+                onclick="deleteCard('card1')"
+                ><i class="trash icon"></i>Delete</a
+              >
+            </div>
+
+            <div class="ui link card" id="card2">
+              <div class="image">
+                <img src="../static/images/plant2.jpg" alt="" />
+              </div>
+              <div class="content">
+                <span class="header">Violet Flower (Example)</span>
+                <div class="meta">Uploaded: 00/00/0000</div>
+                <div class="description">
+                  Viola is a genus of flowering plants in the violet family
+                  Violaceae. It is the largest genus in the family, containing
+                  between 525 and 600 species. Most species are found in the
+                  temperate Northern Hemisphere; however, some are also found in
+                  widely divergent areas such as Hawaii, Australasia, and the
+                  Andes. Some Viola species are perennial plants, some are
+                  annual plants, and a few are small shrubs. Many species,
+                  varieties and cultivars are grown in gardens for their
+                  ornamental flowers. In horticulture the term pansy is normally
+                  used for those multi-colored, large-flowered cultivars which
+                  are raised annually or biennially from seed and used
+                  extensively in bedding. The terms viola and violet are
+                  normally reserved for small-flowered annuals or perennials,
+                  including the wild species.
+                </div>
+              </div>
+              <div class="extra content">
+                <div class="ui small labels">
+                  <div class="ui basic label">
+                    <i class="envira icon"></i>TAG ID II
+                  </div>
+                </div>
+              </div>
+              <a
+                href="#"
+                class="ui red bottom attached button"
+                onclick="deleteCard('card2')"
+                ><i class="trash icon"></i>Delete</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+
+  {% include 'footer.html' %}
+</html>

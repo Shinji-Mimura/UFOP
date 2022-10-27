@@ -1,0 +1,1 @@
+data IntTree = ILeaf | INode Int IntTree IntTree

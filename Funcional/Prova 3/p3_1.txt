@@ -1,1 +1,0 @@
-Proof. destruct b1, b2; simpl; reflexivity. Qed.
